@@ -105,6 +105,7 @@ Durante o desafio, foram registradas capturas de tela das interações com o Mic
 As evidências incluem o prompt enviado ao Copilot, o PRD revisado, o dashboard financeiro e o chat conversacional.
 
 As imagens estão armazenadas neste repositório e serão identificadas nesta seção.
+7ad86909-83dc-4ba1-aff4-68192fb5f8d3.png
 
 ## 📊 Resultados obtidos
 
