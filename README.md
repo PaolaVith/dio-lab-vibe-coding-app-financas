@@ -100,12 +100,25 @@ A hipótese principal é que o registro por conversa pode tornar o controle fina
 
 ## 📸 Evidências do desenvolvimento
 
-Durante o desafio, foram registradas capturas de tela das interações com o Microsoft Copilot e do protótipo criado no Lovable.
+As imagens abaixo documentam as interações com as ferramentas de inteligência artificial e o desenvolvimento do protótipo FinançaFácil AI.
 
-As evidências incluem o prompt enviado ao Copilot, o PRD revisado, o dashboard financeiro e o chat conversacional.
+### Evidência 1
+![Evidência 1](7ad86909-83dc-4ba1-aff4-68192fb5f8d3.png)
 
-As imagens estão armazenadas neste repositório e serão identificadas nesta seção.
-7ad86909-83dc-4ba1-aff4-68192fb5f8d3.png
+### Evidência 2
+![Evidência 2](image.png)
+
+### Evidência 3
+![Evidência 3](c8b5761c-9d1d-457b-b9de-599913e3c732.png)
+
+### Evidência 4
+![Evidência 4](74795715-ede6-45c3-8452-3bd121bc6a56.png)
+
+### Evidência 5
+![Evidência 5](5813cdaa-a9ea-4c9b-a3a1-6ad577498859.png)
+
+### Evidência 6
+![Evidência 6](ef951929-6f89-49ad-b9b5-e19b5d2ab9e7.png)
 
 ## 📊 Resultados obtidos
 
